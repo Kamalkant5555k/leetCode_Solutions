@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
+## String
+|  |
+| ------- |
+| [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
 <!---LeetCode Topics End-->
