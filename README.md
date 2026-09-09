@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
