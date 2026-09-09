@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Backtracking
 |  |
 | ------- |
