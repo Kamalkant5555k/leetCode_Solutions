@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
