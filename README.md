@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
