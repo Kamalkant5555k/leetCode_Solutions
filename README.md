@@ -92,4 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0015-3sum) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
