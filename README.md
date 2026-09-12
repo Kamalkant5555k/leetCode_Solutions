@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
+| [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
@@ -128,13 +130,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
