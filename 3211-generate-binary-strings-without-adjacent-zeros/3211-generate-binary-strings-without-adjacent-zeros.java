@@ -1,3 +1,5 @@
+// it is also correct code only 1 test case show TLE--
+
 // class Solution {
 //     static ArrayList<String>ans;
 //     public List<String> validStrings(int n) {
@@ -47,7 +49,6 @@ class Solution {
 
         // Add 0 only if previous character is not 0
         if (idx == 0 || temp.charAt(idx - 1) != '0') {
-
             temp.append('0');
             gen(n, idx + 1, temp);
             temp.deleteCharAt(temp.length() - 1);
