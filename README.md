@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
