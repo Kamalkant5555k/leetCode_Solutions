@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
