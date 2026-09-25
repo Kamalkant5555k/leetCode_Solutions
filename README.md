@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
