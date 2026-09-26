@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0198-house-robber) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
