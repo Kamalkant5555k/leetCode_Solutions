@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -260,8 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
