@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
@@ -167,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
