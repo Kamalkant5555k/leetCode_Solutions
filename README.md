@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2843-count-symmetric-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2843-count-symmetric-integers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
