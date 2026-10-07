@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
@@ -181,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
