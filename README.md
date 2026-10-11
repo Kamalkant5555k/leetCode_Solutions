@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0016-3sum-closest) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0001-two-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
