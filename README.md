@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
