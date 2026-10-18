@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
