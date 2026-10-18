@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
