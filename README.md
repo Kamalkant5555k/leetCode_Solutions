@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
