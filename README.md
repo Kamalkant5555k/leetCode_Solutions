@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
