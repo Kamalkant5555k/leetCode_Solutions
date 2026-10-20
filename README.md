@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2942-find-words-containing-character](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2942-find-words-containing-character) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1695-maximum-erasure-value) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
