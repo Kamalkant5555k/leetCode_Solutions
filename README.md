@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
