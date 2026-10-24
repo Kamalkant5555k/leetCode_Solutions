@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2716-minimize-string-length](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2716-minimize-string-length) |
 | [2942-find-words-containing-character](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2942-find-words-containing-character) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
