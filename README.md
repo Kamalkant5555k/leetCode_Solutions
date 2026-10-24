@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2843-count-symmetric-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2843-count-symmetric-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2315-count-asterisks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
