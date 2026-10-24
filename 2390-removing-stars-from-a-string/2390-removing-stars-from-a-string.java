@@ -1,0 +1,20 @@
+class Solution {
+    public String removeStars(String s) {
+        Stack<Character>st=new Stack<>();
+        for(char ch:s.toCharArray()){
+            if(!st.empty() && ch=='*'){
+                st.pop();
+            }else{
+                st.push(ch);
+            }
+        }
+        StringBuilder sb=new StringBuilder();
+        while(!st.empty()){
+            sb.append(st.pop());
+
+        }
+        sb.reverse();
+        return sb.toString();
+        
+    }
+}
