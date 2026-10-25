@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0063-unique-paths-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
