@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2843-count-symmetric-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2843-count-symmetric-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
