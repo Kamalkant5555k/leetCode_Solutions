@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1534-count-good-triplets) |
 | [1695-maximum-erasure-value](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1695-maximum-erasure-value) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2409-count-days-spent-together) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
