@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
