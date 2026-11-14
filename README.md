@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
