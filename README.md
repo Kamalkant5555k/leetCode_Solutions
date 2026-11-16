@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0785-is-graph-bipartite](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0785-is-graph-bipartite](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## K-D Tree
 |  |
@@ -448,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0184-department-highest-salary) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kamalkant5555k/leetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
